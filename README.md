@@ -211,10 +211,10 @@ Research into context-aware career recommendation and personalized learning-path
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivakumar-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Most-used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BanothShivakumar-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanothShivakumar-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Most-used languages"/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=8B5CF6&area=true&hide_border=true&custom_title=The%20Commit%20Chronicle" alt="GitHub contribution activity graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=BanothShivakumar-09&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=8B5CF6&area=true&hide_border=true&custom_title=The%20Commit%20Chronicle" alt="GitHub contribution activity graph"/>
 
 </div>
 
