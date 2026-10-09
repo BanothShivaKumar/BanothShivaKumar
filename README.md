@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=250\&section=header\&text=Banoth%20Shiva%20Kumar\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20AI%20and%20Cloud%20Enthusiast\&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=250\&section=header\&text=Banoth%20Shiva%20Kumar\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20AI%20and%20Cloud%20Enthusiast\&descAlignY=55)
 
 <div align="center">
 
