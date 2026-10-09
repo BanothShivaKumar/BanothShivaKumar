@@ -1,247 +1,236 @@
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:302B63,100:00D4FF&height=220&section=header&text=SHIVA%20KUMAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20SYSTEMS%20THAT%20THINK%2C%20SCALE%20%26%20SOLVE&descSize=13&descAlignY=58&descColor=C7D2FE)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=250\&section=header\&text=Banoth%20Shiva%20Kumar\&fontSize=42\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20AI%20and%20Cloud%20Enthusiast\&descAlignY=55)
 
 <div align="center">
 
-<img src="./assets/shiva-pixel-reveal.gif" alt="Shiva Kumar portrait, revealing from pixels to a clear image" width="280" />
+# 👋 Welcome To My Profile
 
-# BANOTH SHIVA KUMAR
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI+Systems+Builder;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Applications;Passionate+About+Cloud+and+Artificial+Intelligence" />
 
-### Software Engineering · Backend Systems · Applied AI
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&height=35&lines=Turning+ideas+into+working+systems;Designing+backends+that+scale;Building+AI+that+serves+a+purpose;Learning+by+building%2C+not+just+reading" alt="Animated developer introduction" />
+<a href="https://linkedin.com/in/shivakumarnayak">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://github.com/Shivakumar-09"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/></a>
-<a href="https://linkedin.com/in/shivakumarnayak"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="https://leetcode.com/u/shivakumar2005"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
+<a href="https://github.com/Shivakumar-09">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shivakumar-09&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile view counter"/>
-<img src="https://img.shields.io/github/followers/Shivakumar-09?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="GitHub followers"/>
+<a href="https://leetcode.com/u/shivakumar2005">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-> I don't just want to write code that works. I want to understand why it works, how it scales, and what happens when it breaks.
+🎓 B.Tech Information Technology @ Vardhaman College of Engineering (2023–2027)
 
-</div>
+💼 Former Full Stack & Backend Systems Intern at MassMutual
 
-## `01` — The engineer behind the commits
+☁️ Passionate about building scalable backend systems, cloud-native applications, and AI-powered software solutions.
 
-I'm a final-year Information Technology student at **Vardhaman College of Engineering** (2023–2027), interested in backend engineering, cloud infrastructure, and applied AI.
+### Interests
 
-My approach: understand the problem, design the system, build the solution, measure the outcome, and improve it.
+* Backend Development
+* Software Engineering
+* Cloud Computing
+* Artificial Intelligence
 
-| Engineering focus | Intelligence focus |
-|---|---|
-| Backend systems, REST APIs, database design, authentication, caching, cloud deployment | RAG, LLM applications, semantic search, computer vision, AI-assisted workflows |
+### Currently Learning
 
-| Education | Current learning |
-|---|---|
-| B.Tech Information Technology · Vardhaman College of Engineering · 2023–2027 · CGPA 9.16/10 | Java and Spring Boot · AWS architecture · Multi-agent AI systems |
+* AWS Cloud Architecture
+* Multi-Agent AI Systems
+* Spring Boot
 
-## `02` — The engineering toolkit
 
-<details open>
-<summary><strong>Languages & problem solving</strong></summary>
-<br/>
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## 🛠 Tech Stack
 
-</details>
+### Languages
 
-<details open>
-<summary><strong>Backend & application architecture</strong></summary>
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### Backend Development
 
-</details>
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-<details>
-<summary><strong>Frontend & experience design</strong></summary>
-<br/>
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-</details>
+### Databases
 
-<details open>
-<summary><strong>Data, AI & intelligent systems</strong></summary>
-<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+### Cloud & Tools
 
-</details>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-<details open>
-<summary><strong>Cloud, deployment & developer tools</strong></summary>
-<br/>
+---
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+## 💼 Experience
 
-</details>
+### Full Stack & Backend Systems Intern | MassMutual
 
-## `03` — Selected builds
+📅 Jul 2025 – Oct 2025
 
-### 01 / FleetMind
-**AI-at-the-edge platform for software-defined vehicles**
+* Engineered and deployed a scalable MERN-stack backend on AWS EC2 supporting 1,000+ concurrent users
+* Built secure REST APIs with JWT authentication, Redis caching, and RBAC
+* Reduced API latency by 40% through backend optimization
+* Improved P99 response latency by 35% using query optimization and connection pooling
+* Performed monitoring and debugging using AWS CloudWatch
 
-- Natural-language rule interpretation
-- Interactive vehicle tracking and fleet simulation
-- AI-assisted operational decision support
+### AI & Data Analytics Intern | AICTE
 
-`Next.js` `Python` `OpenAI API` `Leaflet.js`
+📅 Apr 2025 – May 2025
 
-### 02 / PharmaPulse AI
-**Intelligent healthcare information workflows**
+* Built image classification models using TensorFlow and ResNet50
+* Applied transfer learning and data augmentation
+* Optimized model training and inference performance
+* Worked on real-world computer vision workflows
 
-- Document-processing workflows
-- Semantic retrieval and contextual search
-- Secure APIs and role-based access control
+---
 
-`AWS` `Node.js` `MongoDB` `LangChain`
+## 🚀 Featured Projects
 
-### 03 / VoteWise AI
-**AI-assisted election information**
+### 🚗 FleetMind
 
-- Conversational voter assistance
-- Multilingual interaction concepts
-- Authenticated services and structured data
+**AI-at-the-Edge Platform for Software Defined Vehicles (SDVs)**
 
-`React` `Node.js` `PostgreSQL` `OpenAI API`
+* Natural Language Rule Engine
+* Real-Time Fleet Simulation
+* Interactive Vehicle Tracking
+* AI-Powered Decision Support
 
-### 04 / AI Student Guide Hub
-**Context-aware career and learning recommendations**
+**Tech Stack:** Next.js • OpenAI API • Python • JavaScript • Leaflet.js
 
-- Retrieval-Augmented Generation (RAG)
-- Semantic search and contextual responses
-- Personalized learning roadmaps and career guidance
+---
 
-`LangChain` `OpenAI API` `PostgreSQL` `MERN`
+### 🏥 Pharma Pulse AI
 
-### 05 / Eco Sentinel AI
-**Environmental intelligence and monitoring**
+**Intelligent Healthcare Platform**
 
-- Environmental and air-quality information
-- Pollution analytics and visualization
-- AI-generated contextual insights
+* AWS-based document processing pipelines
+* Semantic search using LangChain
+* Secure REST APIs and RBAC
+* Scalable healthcare workflows
 
-`MERN` `AWS` `Redis` `OpenAI API`
+**Tech Stack:** AWS • Node.js • MongoDB • LangChain
 
-<div align="center">
+---
 
-<a href="https://github.com/Shivakumar-09?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=111827" alt="Explore all repositories"/></a>
+### 🗳️ VoteWise AI
 
-</div>
+**AI-Powered Election Assistance Platform**
 
-## `04` — Engineering experience
+* Multilingual AI voter assistance
+* OpenAI-powered conversational interface
+* JWT Authentication
+* PostgreSQL-backed backend services
 
-### Full Stack & Backend Systems Intern — MassMutual
-<sub>JUL 2025 — OCT 2025</sub>
+**Tech Stack:** React • Node.js • PostgreSQL • OpenAI API
 
-- Worked on a MERN-based backend deployed on AWS EC2, with reported support for more than 1,000 concurrent users.
-- Developed REST APIs with JWT authentication and role-based access control.
-- Used Redis caching and query optimization to improve backend performance.
-- Worked on connection pooling, latency optimization, monitoring, and debugging with AWS CloudWatch.
+---
 
-### AI & Data Analytics Intern — AICTE
-<sub>APR 2025 — MAY 2025</sub>
+### 🎓 AI Student Guide Hub
 
-- Developed image-classification workflows using TensorFlow and ResNet50.
-- Applied transfer learning and data augmentation.
-- Explored model training, inference optimization, and computer vision workflows.
+**Personalized Learning & Career Guidance Platform**
 
-## `05` — Experiments beyond the classroom
+* RAG-based recommendation engine
+* Semantic search
+* Personalized study roadmaps
+* Learning analytics dashboard
 
-### Flipkart Gridlock Hackathon 2.0
-Explored traffic-demand prediction using gradient-boosting models and ensemble techniques.
+**Tech Stack:** MERN Stack • PostgreSQL • LangChain • OpenAI API
 
-- CatBoost, LightGBM, and XGBoost
-- Feature engineering and validation experiments
-- Out-of-fold evaluation and model comparison
+---
 
-### Research — AI Student Guide Hub
-Research into context-aware career recommendation and personalized learning-path generation using language models and retrieval-based approaches.
+### 🌱 Eco Sentinel AI
 
-## `06` — Milestones & certifications
+**Environmental Intelligence Platform**
 
-**Selected milestones**
-- Ranked #1 among 500+ participants in a database management competition.
-- Participated in Agentathon 2025.
-- Participated in Google Cloud GenAI Exchange Hackathon.
-- Practising data structures, algorithms, and software development.
+* Real-time environmental monitoring
+* AQI and pollution analytics
+* AI-generated environmental insights
+* AWS cloud deployment
 
-**Certifications**
-- Oracle Cloud Infrastructure Generative AI Professional
-- AWS Cloud Practitioner Essentials
-- Programming in Java — NPTEL
-- Python Essentials 1
-- AI & Data Analytics Virtual Internship
+**Tech Stack:** MERN Stack • AWS • OpenAI API • Redis
 
-## `07` — The activity layer
+---
 
-<div align="center">
+## 🏅 Achievements
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BanothShivakumar-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanothShivakumar-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Most-used languages"/>
+* 🏆 Ranked #1 among 500+ participants in Database Management Competition
+* 🚀 Agentathon 2025 Participant
+* ☁️ Google Cloud GenAI Exchange Hackathon Participant
+* 💻 Active LeetCode Problem Solver
+* 🌟 Open Source Contributor
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=BanothShivakumar-09&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=8B5CF6&area=true&hide_border=true&custom_title=The%20Commit%20Chronicle" alt="GitHub contribution activity graph"/>
+---
 
-</div>
+## 🏆 Certifications
 
-<sub>External statistic services can occasionally be unavailable. Language charts represent repository contents, not overall proficiency.</sub>
+* OCI Generative AI Professional
+* AWS Cloud Practitioner Essentials
+* Programming in Java (NPTEL)
+* Python Essentials 1
+* AI & Data Analytics Virtual Internship
 
-## `08` — Find me
+---
 
-<div align="center">
+## 📈 Contribution Activity
 
-<a href="mailto:shivakumarnayak2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Start%20a%20conversation-00D4FF?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email"/></a>
-<a href="https://linkedin.com/in/shivakumarnayak"><img src="https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Shivakumar-09"><img src="https://img.shields.io/badge/GITHUB-Build%20with%20me-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivakumar-09&theme=tokyo-night&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BanothShivaKumar&theme=tokyonight"/>
+</p>
+
+
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [shivakumarnayak2005@gmail.com](mailto:shivakumarnayak2005@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/shivakumarnayak
+
+💻 GitHub: github.com/BanothShivaKumar
+
+🧩 LeetCode: leetcode.com/u/shivakumar2005
 
 ---
 
 <div align="center">
 
-### `BUILD → MEASURE → LEARN → REFACTOR`
+### ⚡ Code • Learn • Build • Repeat
 
-Good engineering is a continuous process of asking better questions, making thoughtful trade-offs, and turning ideas into dependable software.
-
-**The next commit is another opportunity to improve.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:302B63,100:080B16&height=120&section=footer" alt="Decorative footer"/>
-
-<sub>Designed with intent. Built one commit at a time.</sub>
+Building scalable software and intelligent systems that solve real-world problems.
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2575fc,100:6a11cb\&height=120\&section=footer)
